@@ -1,2 +1,3 @@
 *.tmproj
 target
+.DS_Store
